@@ -1,5 +1,5 @@
 import type { Config } from "tailwindcss";
-import config from "@repo/ui/tailwind.config";
+import config from "@repo/ui-atom/tailwind.config";
 
 const webConfig = {
   ...config,
