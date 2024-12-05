@@ -18,7 +18,7 @@ importers:
         specifier: 5.5.4
         version: 5.5.4
 
-  apps/web:
+  apps/sc-admin:
     dependencies:
       '@repo/ui-atom':
         specifier: workspace:*
